@@ -1,5 +1,7 @@
 # Master in Green Data Science - Welcome Kit
-Master in Data Science in Agriculture, Food, Forest and Environment, Instituto Superior de Agronomia, Universidade de Lisboa
+### Master in Data Science in Agriculture, Food, Forest and Environment
+### Instituto Superior de Agronomia, Universidade de Lisboa
+
 
 ## Welcome
 
@@ -69,4 +71,4 @@ To use Github, you need to [create and account](https://github.com/signup), whic
 
 ### 7. Text editor
 
-One of the tools you will use the most will be a text editor. This will be used to view and edit your code, data files, documentation, etc. You can use any editor of your choice, depending on the operating system you have. Examples are: [Visual Studio Code](https://code.visualstudio.com/), [Atom](https://atom.io/),[ Notepad++](https://notepad-plus-plus.org/), [Sublime Text](https://www.sublimetext.com/), [Vim](https://www.vim.org/) (if you're using linux or MacOS, the last one is likely to be already available in your system). 
+One of the most used tools by you will be a text editor. It will be used to view and edit code, data files, documentation, etc. You can use any editor of your choice, depending on the operating system you have. Examples are: [Visual Studio Code](https://code.visualstudio.com/), [Atom](https://atom.io/),[ Notepad++](https://notepad-plus-plus.org/), [Sublime Text](https://www.sublimetext.com/), [Vim](https://www.vim.org/) (if you're using linux or MacOS, the last one is likely to be already available in your system). 
