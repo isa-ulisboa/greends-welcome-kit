@@ -1,4 +1,4 @@
-# Welcome Kit - Master in Green Data Science
+# Master in Green Data Science - Welcome Kit
 Master in Data Science in Agriculture, Food, Forest and Environment, Instituto Superior de Agronomia, Universidade de Lisboa
 
 ## Welcome
