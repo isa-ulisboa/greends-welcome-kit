@@ -39,7 +39,7 @@ To install Jupyter Notebook, run:
 
 ```pip install notebook```
 
-After the installation completed, you can run with:
+After the installation completed, you can start the application by running:
 
 ```jupyter notebook```
 
@@ -48,7 +48,7 @@ After the installation completed, you can run with:
 
 As a student of the University of Lisbon, you have access to a **ULisboa User Account**, which will enable several services and resources, including a **Google for Education** account. We will use several application of this service in our classes, so you need to activate the Google account before classes start. The services in this account include Gmail, Google Drive, Google Classroom, Google Calendar, Google Collaboratory, Google Jamboard, etc.
 
-Activate your ULisboa account at https://utilizador.ulisboa.pt. This will also require that you activate your ISA student email in advance.
+Activate your ULisboa account at https://utilizador.ulisboa.pt. This will also require that you activate your ISA student email in advance. In case you need support, contact the Informatics Support at ISA by helpdesk@isa.ulisboa.pt. 
 
 
 ### 4. Google Collaboratory
