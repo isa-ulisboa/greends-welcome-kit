@@ -27,8 +27,11 @@ We will use **python** as our primary programming language through out the cours
 
 Python is an opensource and free software, which is most certainly available to be installed from the apps/package manager in your system. Or you can go to [Python.org](https://www.python.org/) to download installation packages.
 
-It is also recommended to have a package manager for Python installed. These can by [PIP](https://pypi.org/project/pip/) or Conda.
-
+It is also recommended to have a package manager for Python installed. These can by [PIP](https://pypi.org/project/pip/) or Conda. Pip is normally installed  by default if python was downloaded from pyhton.org. You can ensure that it is installed with the following command:
+```
+python -m ensurepip --upgrade
+```
+For more details, check [pip installation](https://pip.pypa.io/en/stable/installation/).
 
 ### 2. Jupyter Notebook
 
@@ -36,13 +39,17 @@ It is also recommended to have a package manager for Python installed. These can
 
 To [install Jupyter Notebook](https://jupyter.org/install), you need to have Python in your system. The recommended way of installation is using [PIP](https://pypi.org/project/pip/) (Pyhton Package Index), which needs also to be installed.
 
-To install Jupyter Notebook, run:
+To install Jupyter Notebook, run from a terminal:
 
-```pip install notebook```
+```
+pip install notebook
+```
 
-After the installation completed, you can start the application by running:
+After the installation completed, you can start the application from a terminal by running:
 
-```jupyter notebook```
+```
+jupyter notebook
+```
 
 
 ### 3. VPN
