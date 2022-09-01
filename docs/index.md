@@ -49,31 +49,35 @@ After the installation completed, you can start the application by running:
 
 Some resources might be available only when you are in an on-campus connection. In that case, if you are working remotely from home, you need to have an active VPN connection. ISA provides VPN connections to all its students. You can find more information on how to configure your connection [here](https://www.isa.ulisboa.pt/di/servicos/acesso-vpn). To activate your VPN access, you need to deliver a signed [term of responsability](https://www.isa.ulisboa.pt/files/di/pub/docs/formularios/TermoResponsabilidadeVPN.pdf) at ISA Informatics Support office (Main Building, room 28A).
 
-### 3. Google for Education account
+
+### 4. Google for Education account
 
 As a student of the University of Lisbon, you have access to a **ULisboa User Account**, which will enable several services and resources, including a **Google for Education** account. We will use several application of this service in our classes, so you need to activate the Google account before classes start. The services in this account include Gmail, Google Drive, Google Classroom, Google Calendar, Google Collaboratory, Google Jamboard, etc.
 
 Activate your ULisboa account at https://utilizador.ulisboa.pt. This will also require that you activate your ISA student email in advance. In case you need support, contact the Informatics Support at ISA by helpdesk@isa.ulisboa.pt. 
 
 
-### 4. Google Collaboratory
+### 5. Google Collaboratory
 
 One of the Google for Education resources we will use is **Google Collaboratory**. This is an online *Jupyter Notebook* environment that enables running notebooks in a cloud environment. Google Colab provides cumputing resources (including GPU processors), allows sharing of notebooks and access to files stored in Google Drive, so it is a great environment for our data science projects. In fact, most of our Jupyter Notebook projects will be run in Colab.
 
 You need to have your Google for Education account active to sign in in Colab.
 
-### 5. Git
+
+### 6. Git
 
 **Git** is a *distributed version control* system that will help you to manage and share your code between computers, with colleages and the data science community. We will use *git* in our projects to start from a template repository, develop our code, do hands on exercises, submit homework and assingments. When using *Google Colab*, you will also have the possibility to share your code using *git* and *Github*.
 
 You can install **Git** in your computer, from the apps/package manager of your system, or downloading from https://git-scm.com. In the classroom we will learn how to configure *git* and the essencial commands to start using it.
 
-### 6. GitHub
+
+### 7. GitHub
 
 **Github** is a code repository that enables sharing code between developers. It supports *git* commands to grab or submit code, and manages versions. You will use *Github* in many tasks to manage your projects, get and submit code.
 
 To use Github, you need to [create and account](https://github.com/signup), which is available for free.
 
-### 7. Text editor
+
+### 8. Text editor
 
 One of the most used tools by you will be a text editor. It will be used to view and edit code, data files, documentation, etc. You can use any editor of your choice, depending on the operating system you have. Examples are: [Visual Studio Code](https://code.visualstudio.com/), [Atom](https://atom.io/),[ Notepad++](https://notepad-plus-plus.org/), [Sublime Text](https://www.sublimetext.com/), [Vim](https://www.vim.org/) (if you're using linux or MacOS, the last one is likely to be already available in your system). 
