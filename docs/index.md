@@ -9,15 +9,16 @@ Welcome to **[Master in Green Data Science](https://www.isa.ulisboa.pt/ensino/me
 
 1. Python
 2. Jupyter Notebooks
-3. Google for Education account
-4. Google Collaboratory
-5. Git
-6. Github
-7. Text editor
+3. VPN
+4. Google for Education account
+5. Google Collaboratory
+6. Git
+7. Github
+8. Text editor
 
-As a student of this course, you will have access to the Informatics Room 48 (Sala PORBIOTA, Main Building) at ISA were desktop computers will be prepared with all the necessary tools. However, you might want to setup your on computer (laptop or desktop) to work off class, or also on class, if you prefer so. This will be necessary to complete homework and assingments. 
+As a student of this course, you will have access to the Informatics Room 48 (Sala PORBIOTA, Main Building) at ISA where desktop computers will be prepared with all the necessary tools. However, you might want to setup your on computer (laptop or desktop) to work off or on class, if you prefer so. This will be necessary to complete homework  exercises and assingments.
 
-All of these resources are available for Linux, MacOS or Windows, so you can choose which developer environment you want to use. We will support all of them. We will also rely heavily on online services for colaboration and sharing, so you will have to set them up as well.
+All of these resources are available for free for Linux, MacOS or Windows, so you can choose which developer environment you want to use. We will support all of them. We will also rely heavily on online services for colaboration and sharing, so you will have to set them up as well. Some resources may require on-campus connections, in which case you need to have a VPN connection.
 
 
 ### 1. Python
@@ -43,6 +44,10 @@ After the installation completed, you can start the application by running:
 
 ```jupyter notebook```
 
+
+### 3. VPN
+
+Some resources might be available only when you are in an on-campus connection. In that case, if you are working remotely from home, you need to have an active VPN connection. ISA provides VPN connections to all its students. You can find more information on how to configure your connection [here](https://www.isa.ulisboa.pt/di/servicos/acesso-vpn). To activate your VPN access, you need to deliver a signed [term of responsability](https://www.isa.ulisboa.pt/files/di/pub/docs/formularios/TermoResponsabilidadeVPN.pdf) at ISA Informatics Support office (Main Building, room 28A).
 
 ### 3. Google for Education account
 
