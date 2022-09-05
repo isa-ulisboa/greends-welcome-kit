@@ -87,6 +87,8 @@ You can install **Git** in your computer, from the apps/package manager of your 
 
 To use Github, you need to [create and account](https://github.com/signup), which is available for free.
 
+The ISA repository is available at https://github.com/isa-ulisboa.
+
 
 ### 8. Text editor
 
