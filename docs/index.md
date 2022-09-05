@@ -15,6 +15,9 @@ Welcome to **[Master in Green Data Science](https://www.isa.ulisboa.pt/ensino/me
 6. Git
 7. Github
 8. Text editor
+9. MariaDB
+10. Dbeaver
+11. Discord
 
 As a student of this course, you will have access to the Informatics Room 48 (Sala PORBIOTA, Main Building) at ISA where desktop computers will be prepared with all the necessary tools. However, you might want to setup your on computer (laptop or desktop) to work off or on class, if you prefer so. This will be necessary to complete homework  exercises and assingments.
 
@@ -88,3 +91,22 @@ To use Github, you need to [create and account](https://github.com/signup), whic
 ### 8. Text editor
 
 One of the most used tools by you will be a text editor. It will be used to view and edit code, data files, documentation, etc. You can use any editor of your choice, depending on the operating system you have. Examples are: [Visual Studio Code](https://code.visualstudio.com/), [Atom](https://atom.io/),[ Notepad++](https://notepad-plus-plus.org/), [Sublime Text](https://www.sublimetext.com/), [Vim](https://www.vim.org/) (if you're using linux or MacOS, the last one is likely to be already available in your system). 
+
+
+### 9. MariaDB
+
+For our exercises in Data Management and Storage, we will use as DBMS the system MariaBD, which is free and opensource software, fully compatible with MySQL. The installation will depend on your OS. To download the Community Server, link to [this page](https://mariadb.org/download/). For Windows or linux OS, the link provides binaries for download. In the case of linux, it is likely that you can install it with the package manager of your system. For MacOS, binaries can be installed suing Homebrew (see more [here](https://mariadb.com/kb/en/installing-mariadb-on-macos-using-homebrew/)).
+
+If your prefer to use MySQL, this is also possible.
+
+
+### 10. DBeaver
+
+Interacting with the database can be done by many ways, but using an IDE (Integrated Development Environment) makes it more easy. We will use DBeaver, although you can use any other of your choice. DBearver Community is free and opensource software and can be downloaded [here](https://dbeaver.io/download/).
+
+
+### 11. Discord
+
+When working in teams, it is useful to use a tool to communicate with colleagues or the community, but within the context of specific channels. Discord is a tool useful to promote and follow discussions related to our projects, and keep them as an archive. We will use the Discord server GreenDS. Click [here](https://discord.gg/VH2HzZw7) to to join this Discord server.
+
+If you have any issues with the software above, post your question on Discord -> GreenDS -> Sofware -> Issues channel.
