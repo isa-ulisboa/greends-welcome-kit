@@ -110,7 +110,7 @@ Interacting with the database can be done by many ways, but using an IDE (Integr
 
 ### 11. <a name="discord">Discord</a>
 
-When working in teams, it is useful to use a tool to communicate with colleagues or the community, but within the context of specific channels. Discord is a tool useful to promote and follow discussions related to our projects, and keep them as an archive. We will use the Discord server GreenDS. Click [here](https://discord.gg/VH2HzZw7) to to join this Discord server.
+When working in teams, it is useful to use a tool to communicate with colleagues or the community, but within the context of specific channels. Discord is a tool useful to promote and follow discussions related to our projects, and keep them as an archive. We will use the Discord server GreenDS. Click [here](https://discord.gg/TaDQbsaNJK) to to join this Discord server.
 
 If you have any issues with the software above, post your question on Discord -> GreenDS -> Sofware -> Issues channel.
 
