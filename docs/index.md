@@ -29,7 +29,8 @@ All of these resources are available for free for Linux, MacOS or Windows, so yo
 
 We will use **python** as our primary programming language throughout the course. Python is on of the most used programming languages worldwide, and it is very popular within the Data Science community.
 
-Python is an opensource and free software, which is most certainly available to be installed from the apps/package manager in your system. Or you can go to [Python.org](https://www.python.org/) to download installation packages.
+Python is an opensource and free software, which is most certainly available to be installed from the apps/package manager in your system. Or you can go to [Python.org](https://www.python.org/) to download installation packages of the latest stable 
+release. Make sure that in the Windows inatallation, you check `Add Python to PATH` option.
 
 It is also recommended to have a package manager for Python installed. These can by [PIP](https://pypi.org/project/pip/) or Conda. **pip** is normally installed  by default if python was downloaded from python.org. You can ensure that it is installed running the following command in your terminal:
 ```
@@ -92,7 +93,7 @@ You need to have your Google for Education account active to sign in in Colab.
 
 **Git** is a *distributed version control* system that will help you to manage and share your code between computers, with colleagues and the data science community. We will use *git* in our projects to start from a template repository, develop our code, do hands on exercises, submit homework and assignments. When using *Google Colab*, you will also have the possibility to share your code using *git* and *Github*.
 
-You can install **Git** in your computer, from the apps/package manager of your system, or downloading from https://git-scm.com. In the classroom we will learn how to configure *git* and the essential commands to start using it.
+You can install **Git** in your computer, from the apps/package manager of your system, or downloading from [https://git-scm.com](https://git-scm.com). In the classroom we will learn how to configure *git* and the essential commands to start using it.
 
 
 ### 7. <a name="github">GitHub</a>
@@ -101,12 +102,12 @@ You can install **Git** in your computer, from the apps/package manager of your 
 
 To use Github, you need to [create and account](https://github.com/signup), which is available for free.
 
-The ISA repository is available at https://github.com/isa-ulisboa.
+The ISA repository is available at [https://github.com/isa-ulisboa](https://github.com/isa-ulisboa).
 
 
 ### 8. <a name="editor">Text editor</a>
 
-One of the most used tools by you will be a text editor. It will be used to view and edit code, data files, documentation, etc. You can use any editor of your choice, depending on the operating system you have. Examples are: [Visual Studio Code](https://code.visualstudio.com/), [Atom](https://atom.io/),[ Notepad++](https://notepad-plus-plus.org/), [Sublime Text](https://www.sublimetext.com/), [Vim](https://www.vim.org/) (if you're using linux or MacOS, the last one is likely to be already available in your system). 
+One of the most used tools by you will be a text editor. It will be used to view and edit code, data files, documentation, etc. You can use any editor of your choice, depending on the operating system you have. Examples are: [Visual Studio Code](https://code.visualstudio.com/), [ Notepad++](https://notepad-plus-plus.org/), [Sublime Text](https://www.sublimetext.com/), [PyCharm](https://www.jetbrains.com/pycharm/), [Vim](https://www.vim.org/) (if you're using linux or MacOS, the last one is likely to be already available in your system). 
 
 
 ### 9. <a name="mariadb">MariaDB</a>
@@ -128,6 +129,14 @@ When working in teams, it is useful to use a tool to communicate with colleagues
 ### 12. <a name="fenix">Fenix</a>
 
 The ISA's academics management tool that you already know. The link to our master degree page is https://fenix.isa.ulisboa.pt/degrees/mcdaafa.
+
+### 13. <a name="fenix">Moodle</a>
+
+For some course activities, we will use the e-learning platform Moodle at [https://elearning.ulisboa.pt/](https://elearning.ulisboa.pt/). You will be
+asked by the teacher to autoregister to the respective course of the Green Data Science
+Master. The list of courses can be found [here](https://elearning.ulisboa.pt/course/index.php?categoryid=2677). Use the [ULisboa User Account](https://www.ulisboa.pt/info/conta-utilizador-ulisboa) to login via the centralized authentication system.
+
+
 
 ## Support
 
