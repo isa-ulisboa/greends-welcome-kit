@@ -19,6 +19,7 @@ Welcome to **[Master in Green Data Science](https://www.isa.ulisboa.pt/ensino/me
 10. [DBeaver](#dbeaver)
 11. [Discord](#discord)
 12. [Fenix](#fenix)
+13. [Moodle](#moodle)
 
 As a student of this course, you will have access to the Informatics Room 48 (Sala PORBIOTA, Main Building) at ISA where desktop computers will be prepared with all the necessary tools. However, you might want to setup your on computer (laptop or desktop) to work off or on class, if you prefer so. This will be necessary to complete homework exercises and assignments.
 
@@ -130,7 +131,7 @@ When working in teams, it is useful to use a tool to communicate with colleagues
 
 The ISA's academics management tool that you already know. The link to our master degree page is https://fenix.isa.ulisboa.pt/degrees/mcdaafa.
 
-### 13. <a name="fenix">Moodle</a>
+### 13. <a name="moodle">Moodle</a>
 
 For some course activities, we will use the e-learning platform Moodle at [https://elearning.ulisboa.pt/](https://elearning.ulisboa.pt/). You will be
 asked by the teacher to autoregister to the respective course of the Green Data Science
