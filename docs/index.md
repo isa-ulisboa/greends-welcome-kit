@@ -10,7 +10,7 @@ Welcome to **[Master in Green Data Science](https://www.isa.ulisboa.pt/ensino/me
 1. [Python](#python)
 2. [Jupyter Notebooks](#jupyter)
 3. [VPN](#vpn)
-4. [Google for Education account](#google)
+4. [ULisboa user account](#ulisboa)
 5. [Google Collaboratory](#colab)
 6. [Git](#git)
 7. [Github](#github)
@@ -31,7 +31,7 @@ All of these resources are available for free for Linux, MacOS or Windows, so yo
 We will use **python** as our primary programming language throughout the course. Python is on of the most used programming languages worldwide, and it is very popular within the Data Science community.
 
 Python is an opensource and free software, which is most certainly available to be installed from the apps/package manager in your system. Or you can go to [Python.org](https://www.python.org/) to download installation packages of the latest stable 
-release. Make sure that in the Windows inatallation, you check `Add Python to PATH` option.
+release. Make sure that in the Windows installation, you check `Add Python to PATH` option.
 
 It is also recommended to have a package manager for Python installed. These can by [PIP](https://pypi.org/project/pip/) or Conda. **pip** is normally installed  by default if python was downloaded from python.org. You can ensure that it is installed running the following command in your terminal:
 ```
@@ -76,9 +76,9 @@ jupyter lab
 Some resources might be available only when you are in an on-campus connection. In that case, if you are working remotely from home, you need to have an active VPN connection. ISA provides VPN connections to all its students. You can find more information on how to configure your connection [here](https://www.isa.ulisboa.pt/di/servicos/acesso-vpn). To activate your VPN access, you need to deliver a signed [term of responsability](https://www.isa.ulisboa.pt/files/di/pub/docs/formularios/TermoResponsabilidadeVPN.pdf) at ISA Informatics Support office (Main Building, room 28A).
 
 
-### 4. <a name="google">Google for Education account</a>
+### 4. <a name="ulisboa">ULisboa user account</a>
 
-As a student of the University of Lisbon, you have access to a [ULisboa User Account](https://www.ulisboa.pt/info/conta-utilizador-ulisboa), which will enable several services and resources, including a **Google for Education** account. We might use several application of this service in our classes, so it is recommended to activate the Google account before classes start. The services in this account include Gmail, Google Drive, Google Classroom, Google Calendar, Google Collaboratory, Google Jamboard, etc.
+As a student of the University of Lisbon, you have access to a [ULisboa User Account](https://www.ulisboa.pt/info/conta-utilizador-ulisboa), which will enable several services and resources, including a **Google for Education** and **Microsoft Office 365** services. We might use several application of this service in our classes, so it is recommended to activate ULisboa and links to Google and Microsoft services before classes start.
 
 Activate your ULisboa account at https://utilizador.ulisboa.pt. This will also require that you activate your ISA student email in advance. In case you need support, contact the Informatics Support at ISA by helpdesk@isa.ulisboa.pt. 
 
