@@ -73,19 +73,19 @@ jupyter lab
 
 ### 3. <a name="vpn">VPN</a>
 
-Some resources might be available only when you are in an on-campus connection. In that case, if you are working remotely from home, you need to have an active VPN connection. ISA provides VPN connections to all its students. You can find more information on how to configure your connection [here](https://www.isa.ulisboa.pt/di/servicos/acesso-vpn). To activate your VPN access, you need to deliver a signed [term of responsability](https://www.isa.ulisboa.pt/files/di/pub/docs/formularios/TermoResponsabilidadeVPN.pdf) at ISA Informatics Support office (Main Building, room 28A).
+Some resources might be available only when you are in an on-campus connection. In that case, if you are working remotely from home, you need to have an active VPN connection. ISA provides VPN connections to all its students. You can find more information on how to configure your connection [here](https://old.isa.ulisboa.pt/di/servicos/acesso-vpn). To activate your VPN access, you need to deliver a signed [term of responsability](https://old.isa.ulisboa.pt/files/di/pub/docs/formularios/TermoResponsabilidadeVPN.pdf) at ISA Informatics Support office (Library Building, 2nd floor).
 
 
 ### 4. <a name="ulisboa">ULisboa user account</a>
 
 As a student of the University of Lisbon, you have access to a [ULisboa User Account](https://www.ulisboa.pt/info/conta-utilizador-ulisboa), which will enable several services and resources, including a **Google for Education** and **Microsoft Office 365** services. We might use several application of this service in our classes, so it is recommended to activate ULisboa and links to Google and Microsoft services before classes start.
 
-Activate your ULisboa account at https://utilizador.ulisboa.pt. This will also require that you activate your ISA student email in advance. In case you need support, contact the Informatics Support at ISA by helpdesk@isa.ulisboa.pt. 
+Activate your ULisboa account at [https://utilizador.ulisboa.pt](https://utilizador.ulisboa.pt). This will also require that you activate your ISA student email in advance. In case you need support, contact the Informatics Support at ISA by helpdesk@isa.ulisboa.pt. 
 
 
 ### 5. <a name="colab">Google Collaboratory</a>
 
-One of the Google for Education resources we will use is **Google Collaboratory**. This is an online *Jupyter Notebook* environment that enables running notebooks in a cloud environment. Google Colab provides computing resources (including GPU processors), allows sharing of notebooks and access to files stored in Google Drive, so it is a great environment for our data science projects.
+One of the Google for Education resources we will use is **[Google Collaboratory](https://colab.research.google.com/)**. This is an online *Jupyter Notebook* environment that enables running notebooks in a cloud environment. Google Colab provides computing resources (including GPU processors), allows sharing of notebooks and access to files stored in Google Drive, so it is a great environment for our data science projects.
 
 You need to have your Google for Education account active to sign in in Colab.
 
@@ -129,16 +129,16 @@ When working in teams, it is useful to use a tool to communicate with colleagues
 
 ### 12. <a name="fenix">Fenix</a>
 
-The ISA's academics management tool that you already know. The link to our master degree page is https://fenix.isa.ulisboa.pt/degrees/mcdaafa.
+The ISA's academics management tool that you already know. The link to our master degree page is [https://fenix.isa.ulisboa.pt/degrees/mcdaafa](https://fenix.isa.ulisboa.pt/degrees/mcdaafa).
 
 ### 13. <a name="moodle">Moodle</a>
 
 For some course activities, we will use the e-learning platform Moodle at [https://elearning.ulisboa.pt/](https://elearning.ulisboa.pt/). You will be
 asked by the teacher to autoregister to the respective course of the Green Data Science
-Master. The list of courses can be found [here](https://elearning.ulisboa.pt/course/index.php?categoryid=2677). Use the [ULisboa User Account](https://www.ulisboa.pt/info/conta-utilizador-ulisboa) to login via the centralized authentication system.
+Master. The list of courses can be found [here](https://elearning.ulisboa.pt/course/index.php?categoryid=3525). Use the [ULisboa User Account](https://www.ulisboa.pt/info/conta-utilizador-ulisboa) to login via the centralized authentication system.
 
 
 
 ## Support
 
-If you have any issues with the installation of the software above, post your question on Discord -> GreenDS -> Software -> Issues channel. We can also support you directly during the student support hour (on Wednesdays, 14-15h, at the Herbarium building, with Rui Figueira (ruifigueira@isa.ulisboa.pt)).  
+If you have any issues with the installation of the software above, post your question on Discord -> GreenDS -> Software -> Issues channel. We can also support you directly during the student support hour, on Wednesdays, 14-15h, at the Herbarium building, with Rui Figueira (ruifigueira@isa.ulisboa.pt).  
